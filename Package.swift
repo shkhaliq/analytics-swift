@@ -34,6 +34,6 @@ let package = Package(
             dependencies: ["Sovran"]),
         .testTarget(
             name: "Segment-Tests",
-            dependencies: ["Segment"]),
+            dependencies: ["InstacartSegment"]),
     ]
 )
