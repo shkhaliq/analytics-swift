@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import Segment
+@testable import InstacartSegment
 
 class DummyFlushPolicy: FlushPolicy {
     var analytics: Segment.Analytics?
